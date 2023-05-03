@@ -15,8 +15,8 @@ Towns therefore have two FIPS identifiers. The town boundaries did not change.
 More information about the county-county equivalent change is available here: https://www.census.gov/programs-surveys/geography/technical-documentation/county-changes/2020.html
 
 #### Source
-*County subdivisions (which are towns for Connecticut) on TIGER: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
-*County/county-equivalent shapefiles on TIGER: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=Counties+%28and+equivalent%29
+- County subdivisions (which are towns for Connecticut) on TIGER: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
+- County/county-equivalent shapefiles on TIGER: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=Counties+%28and+equivalent%29
 
 
 #### License
