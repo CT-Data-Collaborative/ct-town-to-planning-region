@@ -4,7 +4,7 @@ The ct-town-to-planning-region.csv file contains a crosswalk between 169 Connect
 
 #### Note about FIPS Codes and County Equivalents
 
-In 2022, the Census Bureau adopted Connecticut's nine planning regions as county equivalents- new county-level geographies for Connecticut for statistical purposes, replacing Connecticut's eight counties in Census Bureau data products. The county equivalents have new FIPS codes. 
+In 2022, the Census Bureau adopted Connecticut's nine planning regions as county equivalents-- new county-level geographies for Connecticut for statistical purposes, replacing Connecticut's eight counties in Census Bureau data products. The county equivalents have new FIPS codes. 
 
 Census Bureau data and publications will transition to using the county equivalents instead of counties throughout 2023-2024. To help ease this transition, this crosswalk includes town FIPS codes for both the original counties and the new county equivalents. 
 
