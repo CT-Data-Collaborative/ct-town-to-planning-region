@@ -1,6 +1,6 @@
 # Town to Planning Region Crosswalk
 
-The ct-town-to-planning-region.csv file contains a crosswalk between 169 Connecticut towns and planning regions/county equivalents.
+The ct-town-to-planning-region.csv file contains a crosswalk between 169 Connecticut towns and 9 planning regions/county equivalents.
 
 #### Note about FIPS Codes and County Equivalents
 
